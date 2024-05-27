@@ -8,7 +8,6 @@
 #include <BasicLinearAlgebra.h>
 using namespace BLA;
 
-
 Adafruit_BME280 bme;
 struct bno055_t myBNO;
 struct bno055_accel myaccel;
