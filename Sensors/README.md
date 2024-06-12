@@ -8,5 +8,4 @@ The [final](https://github.com/ShriramUmashankar/ProjectAbhyuday/blob/main/Senso
 ## BNO055
 For the BNO055 Sensor . The capability is set to a max of 4g's . The rocket having an initial acceleration of around 8g's would need the sensor to operate at 16g's mode. Thus the [final](https://github.com/ShriramUmashankar/ProjectAbhyuday/blob/main/Sensors/BNO055/HighG.ino) code file takes care of it.
 
-## Lora E32
 
